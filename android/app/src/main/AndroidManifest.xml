@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.figmafluttlab">
+    package="com.example.flutterapp">
    <application
-        android:label="figmafluttlab"
+        android:label="flutterapp"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
